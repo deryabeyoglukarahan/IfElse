@@ -1,0 +1,14 @@
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/IfElse/bin/Debug/net8.0/IfElse
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/IfElse/bin/Debug/net8.0/IfElse.deps.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/IfElse/bin/Debug/net8.0/IfElse.runtimeconfig.json
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/IfElse/bin/Debug/net8.0/IfElse.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/IfElse/bin/Debug/net8.0/IfElse.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/IfElse/obj/Debug/net8.0/IfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/IfElse/obj/Debug/net8.0/IfElse.AssemblyInfoInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/IfElse/obj/Debug/net8.0/IfElse.AssemblyInfo.cs
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/IfElse/obj/Debug/net8.0/IfElse.csproj.CoreCompileInputs.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/IfElse/obj/Debug/net8.0/IfElse.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/IfElse/obj/Debug/net8.0/refint/IfElse.dll
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/IfElse/obj/Debug/net8.0/IfElse.pdb
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/IfElse/obj/Debug/net8.0/IfElse.genruntimeconfig.cache
+/Users/deryakarahan/Desktop/Derya/BackEndBootcamp/IfElse/obj/Debug/net8.0/ref/IfElse.dll
